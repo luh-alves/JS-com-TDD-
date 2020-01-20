@@ -1,0 +1,16 @@
+{
+  "name": "luciana-js-tdd",
+  "version": "1.0.0",
+  "description": "Nossa biblioteca de js com tdd na pratica.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Luciana Alves <luh.ana.af@gmail.com> (https://github.com/luh-alves/)",
+  "license": "MIT"
+}
